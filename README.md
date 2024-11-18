@@ -81,3 +81,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subham0822&show_icons=true&locale=en&theme=tokyonight" alt="subham0822" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subham0822&theme=tokyonight" alt="subham0822" /></p>
+
+<h3 align="center">🏆 GitHub Trophies</h3>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=subham0822&theme=nightowl" alt="GitHub Trophies">
+</p>
