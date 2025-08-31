@@ -17,7 +17,7 @@
 - 🌱 I’m currently learning **GenAI**
 
 - 👨‍💻 All of my projects are available at [https://subham0822.github.io/Portfolio/](https://subham0822.github.io/Portfolio/)
-- 
+
 - 💬 Ask me about **GenAI**
 
 - 📫 How to reach me **rwik0822@gmail.com**
