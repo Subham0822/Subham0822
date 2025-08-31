@@ -16,14 +16,8 @@
 
 - 🌱 I’m currently learning **GenAI**
 
-- 👯 I’m looking to collaborate on **N.A.**
-
-- 🤝 I’m looking for help with **N.A.**
-
 - 👨‍💻 All of my projects are available at [https://subham0822.github.io/Portfolio/](https://subham0822.github.io/Portfolio/)
-
-- 📝 I regularly write articles on [N.A.](N.A.)
-
+- 
 - 💬 Ask me about **GenAI**
 
 - 📫 How to reach me **rwik0822@gmail.com**
