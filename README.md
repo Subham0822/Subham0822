@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on [Note Master](http://techrangers.sabyasachiganguli.com/)
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently learning **GenAI**
 
 - 👯 I’m looking to collaborate on **N.A.**
 
@@ -24,7 +24,7 @@
 
 - 📝 I regularly write articles on [N.A.](N.A.)
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **GenAI**
 
 - 📫 How to reach me **rwik0822@gmail.com**
 
