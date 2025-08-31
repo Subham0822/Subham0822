@@ -12,7 +12,7 @@
   </a> 
 </p>
 
-- 🔭 I’m currently working on [Note Master](http://techrangers.sabyasachiganguli.com/)
+- 🔭 I’m currently working on [ForkWare](http://fork-ware.vercel.app/)
 
 - 🌱 I’m currently learning **GenAI**
 
